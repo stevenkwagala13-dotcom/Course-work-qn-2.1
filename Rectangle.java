@@ -1,5 +1,5 @@
 
-package cholatem.shapesystem;
+package steven.shapesystem;
 
 public class Rectangle extends Shape {
 
